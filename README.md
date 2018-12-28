@@ -78,6 +78,8 @@ As use-cases for above learnings, we will develop PBPK models for small molecule
 
 - Please add this site to your watchlist (very top of page) to be informed of any changes.
 
+Visit our [News & Events](https://esqlabs.com/news-events) Section for info on additional workshops in the future and news on our future developments in physiologically-based quantitative-systems-pharmacology.
+
 <br />
 <br />
 
