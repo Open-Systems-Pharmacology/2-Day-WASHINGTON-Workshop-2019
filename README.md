@@ -22,6 +22,8 @@ For more information and registration, please visit [EventBrite](https://www.eve
 
 The workshop is currently restricted to 15 participants.
 
+Registration includes coffee- and lunch breaks.
+
 ## AGENDA
 
 As use-cases for above learnings, we will develop PBPK models for small molecules and biologics and a PB-QSP model for naked antibody pre-treatment (nAb) for antibody-drug conjugates (ADC) treatment of tumor growth, in detail (preliminary agenda):
