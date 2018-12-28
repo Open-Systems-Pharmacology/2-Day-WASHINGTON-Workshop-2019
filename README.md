@@ -31,7 +31,7 @@ As use-cases for above learnings, we will develop PBPK models for small molecule
 | Time (Saturday March 16) | Topic |
 | ------------- | ------------- |
 | 9:00 | **Welcome** and getting everyone started (solving IT issues) |
-| 9:30 | **Lecture**: Introduction to PBPK modeling and the OSP Suite (PK-Sim® & MoBi®)|
+| 9:30 | **Lecture**: Introduction to PBPK modeling and the OSP Suite (PK-Sim® & MoBi®)        |
 | 10:00 | **Hands-On**: Setting up a simple PBPK model |
 | 10:45 | **Coffee Break** |
 | 11:00 | **Lecture**: General concepts of PBPK modeling|
