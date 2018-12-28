@@ -2,7 +2,7 @@
 
 ## PK-Sim® &amp; MoBi® workshop on PBPK and PBPK-based QSP 
 
-esqLABS, in collaboration with the University of Maryland, is running a two-day hands-on **PK-Sim® & MoBi®** workshop on **PBPK and PBPK-based QSP** on **Saturday and Sunday 16th and 17th of March 2019** (post ASCPT) at the University of Maryland in **Washington, DC**. The workshop covers the **basics of PBPK** and concepts and application of **combining PK-Sim, MoBi and R** to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
+esqLABS, in collaboration with the University of Maryland, is running a two-day hands-on **PK-Sim® & MoBi®** workshop on **PBPK and PBPK-based QSP** on **Saturday and Sunday 16th and 17th of March 2019** (post ASCPT) at the **University of Maryland** (Pharmacy Hall, 20 N Pine St, Baltimore, MD 21201). The workshop covers the **basics of PBPK** and concepts and application of **combining PK-Sim, MoBi and R** to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
 - [x] Build a PBPK model in PK-Sim and compare to observed data
 - [x] Learn how to consider age-dependency in drug PK in PK-Sim (Pediatrics and Geriatrics)
 - [x] Conduct population simulations in PK-Sim and MoBi
