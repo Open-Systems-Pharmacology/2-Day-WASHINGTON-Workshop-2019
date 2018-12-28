@@ -1,4 +1,4 @@
-# 2-Day Workshop in WASHINGTON, DC
+# 2-Day Workshop in BALTIMORE, MD
 
 ## PK-Sim® &amp; MoBi® workshop on PBPK and PBPK-based QSP 
 
